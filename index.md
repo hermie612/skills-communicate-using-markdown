@@ -6,3 +6,6 @@ i added an header to the empty index file
 ``` python
 greeting = "Hello, world!";
 ```
+-[ ] Turn on GitHub Pages
+-[ ] Outline my Portfolio
+-[ ] Introduce myself to the World
